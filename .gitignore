@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.idea/
+.vscode/
+
+# weights / data / results (download separately)
+/models
+checkpoints/**
+!checkpoints/FADRA/
+!checkpoints/FADRA/.gitkeep
+data/
+outputs/
+logs/
+wandb/
+*.mp4
+!examples/**/*.mp4
