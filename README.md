@@ -2,7 +2,11 @@
 
 # FADRA: Frequency-Aware Diffusion with Residual Adaptation for Video Face Restoration
 
-[Jin Jiang](https://github.com/jiangjin1246), Jia Wang, Panwen Hu, Weiran Zhao, Shengcai Liao
+[Jin Jiang](https://github.com/jiangjin1246)<sup>1</sup>, Jia Wang<sup>2</sup>, Panwen Hu<sup>3</sup>, Weiran Zhao<sup>1</sup>, Shengcai Liao<sup>1&#8224;</sup>
+
+<sup>1</sup>United Arab Emirates University &nbsp; <sup>2</sup>Ocean University of China &nbsp; <sup>3</sup>MBZUAI
+
+<sup>&#8224;</sup>Corresponding author
 
 [![arXiv](https://img.shields.io/badge/arXiv-2607.06389-b31b1b.svg)](https://arxiv.org/abs/2607.06389)
 [![GitHub](https://img.shields.io/badge/GitHub-FADRA--VFR-black?logo=github)](https://github.com/jiangjin1246/FADRA-VFR)
